@@ -1,24 +1,21 @@
-Welcome to Lumache's documentation!
+Apache Superset: Onboarding Guidebook
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Superset is hosted on CDL’s servers. It can be accessed at – https://supersetv2.civicdatalab.in/login/
 
-Lumache has its documentation hosted on Read the Docs.
+.. image:: login_window.png
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Every bandhu will have a superset account. Contact Sai Krishna Dammalapati <saikrishna@civicdatalab.in> or Abhinav Singh <abhinav@civicdatalab.in> if you don’t have one.
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Uploading a dataset:
 
-   usage
-   api
+   upload_dataset/upload_csv
+   upload_dataset/naming_convention
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Preprocessing:
+
+   preprocessing/preprocessing
