@@ -13,3 +13,11 @@ Every bandhu will have a superset account. Contact Sai Krishna Dammalapati <saik
 
    upload_dataset/upload_csv
    upload_dataset/naming_convention
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Making charts:
+
+   make_charts/making_your_first_chart
+   make_charts/customise_chart
+   make_charts/example_charts
