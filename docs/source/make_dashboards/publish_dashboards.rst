@@ -18,3 +18,6 @@ Markdowns and Headers are used for writing text blobs explaining charts and citi
 This is a good source to know how to write text using Markdown –
 
 `Link <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_
+
+Tabs are used to organize the dashboard in multiple pages.
+Rows and Columns are useful for organizing charts on a single page in the dashboard.
