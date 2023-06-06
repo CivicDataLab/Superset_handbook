@@ -21,3 +21,11 @@ Every bandhu will have a superset account. Contact Sai Krishna Dammalapati <saik
    make_charts/making_your_first_chart
    make_charts/customise_chart
    make_charts/example_charts
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Making dashboards:
+
+   make_dashboards/making_your_first_dashboard
+   make_dashboards/db_filters
+   make_dashboards/publish_dashboard
