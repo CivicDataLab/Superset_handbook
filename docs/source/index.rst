@@ -28,10 +28,10 @@ Every bandhu will have a superset account. Contact Sai Krishna Dammalapati <saik
 
    make_dashboards/making_your_first_dashboard
    make_dashboards/db_filters
-   make_dashboards/publish_dashboards
+   make_dashboards/publish_dashboard
 
 .. toctree::
    :maxdepth: 1
-   :caption: Best practices for a CDL dashboard:
+   :caption: Best practices for CDL dashboards:
 
    best_practices/best_practices
