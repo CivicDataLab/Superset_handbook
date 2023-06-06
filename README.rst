@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Apache Superset: Onboarding Guidebook
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This GitHub repository includes the handbook to be referred while building dashboards at CivicDataLab.
