@@ -32,3 +32,6 @@ Best practices for a CDL dashboard
 3. `POCSO Case law tracker (v1) <https://superset.civicdatalab.in/superset/dashboard/52/>`_ 
 4. `Assam flood tenders dashboard(v1) <https://superset.civicdatalab.in/superset/dashboard/flood-tenders-assam/>`_ 
 5. `OJDP Pune dashbaord (v1) <https://superset.civicdatalab.in/superset/dashboard/ojdp-pune/>`_ 
+
+**External guidebooks to refer**
+1. `Best Practices for Data Visualisation - Royal Statistical Society <https://royal-statistical-society.github.io/datavisguide/rss_conference.html>`_
